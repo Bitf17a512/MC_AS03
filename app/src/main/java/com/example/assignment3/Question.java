@@ -127,3 +127,9 @@ public class Question {
         String choice = choices[a][3];
         return choice;
     }
+    public String getCorrectAnswer(int a){
+        String answer = correctAnswer[a];
+        return answer;
+    }
+}
+
