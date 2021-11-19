@@ -19,3 +19,22 @@ public class Question {
             "Where is the sound of 'ل' produced from?",
             "Where is the sound of 'ن' produced from?",
             "Where is the sound of 'ر' produced from?",
+            "Where is the sound of 'ط' produced from?",
+            "Where is the sound of 'د' produced from?",
+            "Where is the sound of 'ت' produced from?",
+            "Where is the sound of 'ث' produced from?",
+            "Where is the sound of 'ظ' produced from?",
+            "Where is the sound of 'ذ' produced from?",
+            "Where is the sound of 'س' produced from?",
+            "Where is the sound of 'ز' produced from?",
+            "Where is the sound of 'ص' produced from?",
+            "Where is the sound of 'م' produced ",
+            "Where is the sound of 'ن' produced ",
+            "Where is the sound of 'ف' produced from?",
+            "Where is the sound of 'ب' produced from?",
+            "Where is the sound of 'و' produced from?",
+            "Where is the sound of 'ز' produced from?",
+
+
+
+    };
