@@ -49,3 +49,18 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         NextQuestion(random.nextInt(questionLength));
     }
+
+
+    @Override
+    public void onClick(View v) {
+        switch (v.getId()){
+            case R.id.btn_one:
+                if(btn_one.getText() == answer){
+                    score++;
+                    Toast.makeText(MainActivity.this, "You Are Correct", Toast.LENGTH_SHORT).show();
+                    NextQuestion(random.nextInt(questionLength));
+                }else{
+                    GameOver();
+                }
+
+                break;
