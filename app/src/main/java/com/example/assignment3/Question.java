@@ -111,3 +111,7 @@ public class Question {
         String question = questions[a];
         return question;
     }
+    public String getchoice1(int a){
+        String choice = choices[a][0];
+        return choice;
+    }
