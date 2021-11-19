@@ -38,3 +38,12 @@ public class Question {
 
 
     };
+
+    public String choices[][] = {
+            {"End of throat", "Middle of throat", "Start of throat", "Base of tongue"},
+            {"Base of tongue", "End of throat", "Middle of throat", "Start of throat"},
+            {"Base of tongue", "End of throat", "Middle of throat", "Start of throat"},
+            {"Base of tongue", "End of throat", "Middle of throat", "Start of throat"},
+            {"Base of tongue", "End of throat", "Start of throat", "Middle of throat"},
+            {"Base of tongue", "End of throat", "Middle of throat", "Start of throat"},
+            {"Base of tongue", "End of throat", "Middle of throat", "Start of throat"},
