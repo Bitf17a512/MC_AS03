@@ -119,3 +119,7 @@ public class Question {
         String choice = choices[a][1];
         return choice;
     }
+    public String getchoice3(int a){
+        String choice = choices[a][2];
+        return choice;
+    }
