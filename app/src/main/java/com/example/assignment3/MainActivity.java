@@ -120,3 +120,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         alertDialogBuilder.show();
 
     }
+
+    private void NextQuestion(int num){
+        tv_question.setText(question.getQuestion(num));
+        btn_one.setText(question.getchoice1(num));
+        btn_two.setText(question.getchoice2(num));
+        btn_three.setText(question.getchoice3(num));
+        btn_four.setText(question.getchoice4(num));
+
+        answer = question.getCorrectAnswer(num);
+    }
+}
