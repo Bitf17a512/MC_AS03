@@ -47,3 +47,30 @@ public class Question {
             {"Base of tongue", "End of throat", "Start of throat", "Middle of throat"},
             {"Base of tongue", "End of throat", "Middle of throat", "Start of throat"},
             {"Base of tongue", "End of throat", "Middle of throat", "Start of throat"},
+            { "End of throat","Portion of Tongue near its base touching the roof of mouth", "Middle of throat", "Start of throat"},
+            {"Start of throat", "Base of tongue", "End of throat", "Tongue touching the center of the mouth roof"},
+            {"Start of throat", "Base of tongue", "Upper portion of mouth", "Tongue touching the center of the mouth roof"},
+            {"Start of throat", "Base of tongue", "Tongue touching the center of the mouth roof", "Upper POrtion of mouth"},
+            {"Start of throat", "One Side of the tongue touching the moral teeth", "Tongue touching the center of the mouth roof", "Upper POrtion of mouth"},
+            {"End of throat", "Tongue touching the center of the mouth roof", "Round tip of the tongue touching the base of the frontal 8 teeth", "Base of tongue"},
+            {"End of throat", "Tongue touching the center of the mouth roof", "Round tip of the tongue touching the base of the frontal 8 teeth", "Round tip of the tongue touching the base of the frontal 6 teeth"},
+            {"End of throat", "Tongue touching the center of the mouth roof", "Round tip of the tongue touching the base of the frontal 8 teeth", "Rounded tip of the tongue and some portion near it touching the base of the frontal 4 teeth"},
+            {"Tip of the tongue touching the base of the front teeth", "End of throat", "Tongue touching the center of the mouth roof", "Upper portion of mouth"},
+            {"End of throat", "Tip of the tongue touching the base of the front teeth", "Round tip of the tongue touching the base of the frontal 8 teeth", "Upper portion of mouth"},
+            {"End of throat", "Tip of the tongue touching the base of the front teeth", "Round tip of the tongue touching the base of the frontal 8 teeth", "Upper portion of mouth"},
+            {"Base of tongue", "Tip of the tongue touching the tip of the frontal 2 teeth", "Middle of throat", "Start of throat"},
+            {"Start of throat", "One Side of the tongue touching the moral teeth", "Tip of the tongue touching the tip of the frontal 2 teeth", "Upper Portion of mouth"},
+            {"Tip of the tongue touching the tip of the frontal 2 teeth", "End of throat", "Middle of throat", "Start of throat"},
+            {"End of throat", "Tongue touching the center of the mouth roof", "Round tip of the tongue touching the base of the frontal 8 teeth", "Tip of the tongue comes between the front top and bottom teeth"},
+            {"Tip of the tongue comes between the front top and bottom teeth", "Tongue touching the center of the mouth roof", "Round tip of the tongue touching the base of the frontal 8 teeth", "Base of tongue"},
+            {"Tip of the tongue comes between the front top and bottom teeth", "Tongue touching the center of the mouth roof", "Round tip of the tongue touching the base of the frontal 8 teeth", "Base of tongue"},
+            {"End of throat", "Tip of the tongue touching the base of the front teeth", "Round tip of the tongue touching the base of the frontal 8 teeth", "While bringing the vibration to the nose"},
+            {"End of throat", "While bringing the vibration to the nose", "Round tip of the tongue touching the base of the frontal 8 teeth", "Upper portion of mouth"},
+            {"Base of tongue", "Tip of the two upper jaw teeth touches the inner part of the lower lip", "Start of throat", "Middle of throat"},
+            {"Inner part of the both lips touch each other", "Tip of the two upper jaw teeth touches the inner part of the lower lip", "Start of throat", "Middle of throat"},
+            {"Inner part of the both lips touch each other", "Tip of the two upper jaw teeth touches the inner part of the lower lip", "Rounding both lips and not closing the mouth", "Middle of throat"},
+
+
+
+
+    };
