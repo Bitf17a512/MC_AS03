@@ -123,3 +123,7 @@ public class Question {
         String choice = choices[a][2];
         return choice;
     }
+    public String getchoice4(int a){
+        String choice = choices[a][3];
+        return choice;
+    }
