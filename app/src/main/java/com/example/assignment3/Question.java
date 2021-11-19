@@ -106,3 +106,8 @@ public class Question {
             "Inner part of the both lips touch each other",
             "Rounding both lips and not closing the mouth",
     };
+
+    public String getQuestion(int a){
+        String question = questions[a];
+        return question;
+    }
