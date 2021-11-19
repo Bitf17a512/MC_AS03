@@ -74,3 +74,35 @@ public class Question {
 
 
     };
+
+    public String correctAnswer[] = {
+            "End of throat",
+            "End of throat" ,
+            "Middle of throat" ,
+            "Middle of throat" ,
+            "Start of throat",
+            "Start of throat",
+            "Base of tongue",
+            "Portion of Tongue near its base touching the roof of mouth",
+            "Tongue touching the center of the mouth roof",
+            "Tongue touching the center of the mouth roof",
+            "Tongue touching the center of the mouth roof",
+            "One Side of the tongue touching the moral teeth",
+            "Round tip of the tongue touching the base of the frontal 8 teeth",
+            "Round tip of the tongue touching the base of the frontal 6 teeth",
+            "Rounded tip of the tongue and some portion near it touching the base of the frontal 4 teeth",
+            "Tip of the tongue touching the base of the front teeth",
+            "Tip of the tongue touching the base of the front teeth",
+            "Tip of the tongue touching the base of the front teeth",
+            "Tip of the tongue touching the tip of the frontal 2 teeth",
+            "Tip of the tongue touching the tip of the frontal 2 teeth",
+            "Tip of the tongue touching the tip of the frontal 2 teeth",
+            "Tip of the tongue comes between the front top and bottom teeth",
+            "Tip of the tongue comes between the front top and bottom teeth",
+            "Tip of the tongue comes between the front top and bottom teeth",
+            "While bringing the vibration to the nose",
+            "While bringing the vibration to the nose",
+            "Tip of the two upper jaw teeth touches the inner part of the lower lip",
+            "Inner part of the both lips touch each other",
+            "Rounding both lips and not closing the mouth",
+    };
