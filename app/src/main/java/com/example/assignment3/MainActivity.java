@@ -75,3 +75,27 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 }
 
                 break;
+
+            case R.id.btn_three:
+                if(btn_three.getText() == answer){
+                    score++;
+                    Toast.makeText(MainActivity.this, "You Are Correct", Toast.LENGTH_SHORT).show();
+                    NextQuestion(random.nextInt(questionLength));
+                }else{
+                    GameOver();
+                }
+
+                break;
+
+            case R.id.btn_four:
+                if(btn_four.getText() == answer){
+                    score++;
+                    Toast.makeText(MainActivity.this, "You Are Correct", Toast.LENGTH_SHORT).show();
+                    NextQuestion(random.nextInt(questionLength));
+                }else{
+                    GameOver();
+                }
+
+                break;
+        }
+    }
