@@ -25,3 +25,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private String answer;
     private int questionLength = question.questions.length;
+
+    Random random;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        random = new Random();
