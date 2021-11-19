@@ -34,3 +34,18 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         setContentView(R.layout.activity_main);
 
         random = new Random();
+
+
+        btn_one = (Button)findViewById(R.id.btn_one);
+        btn_one.setOnClickListener(this);
+        btn_two = (Button)findViewById(R.id.btn_two);
+        btn_two.setOnClickListener(this);
+        btn_three = (Button)findViewById(R.id.btn_three);
+        btn_three.setOnClickListener(this);
+        btn_four = (Button)findViewById(R.id.btn_four);
+        btn_four.setOnClickListener(this);
+
+        tv_question = (TextView)findViewById(R.id.tv_question);
+
+        NextQuestion(random.nextInt(questionLength));
+    }
