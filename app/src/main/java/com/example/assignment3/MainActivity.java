@@ -65,3 +65,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
                 break;
 
+            case R.id.btn_two:
+                if(btn_two.getText() == answer){
+                    score++;
+                    Toast.makeText(MainActivity.this, "You Are Correct", Toast.LENGTH_SHORT).show();
+                    NextQuestion(random.nextInt(questionLength));
+                }else{
+                    GameOver();
+                }
+
+                break;
