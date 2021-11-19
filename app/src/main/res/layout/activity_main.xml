@@ -21,3 +21,11 @@
         android:text="Button"
         android:layout_centerHorizontal="true"
         android:layout_above="@+id/btn_three"/>
+
+    <Button
+        android:id="@+id/btn_three"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/btn_four"/>
